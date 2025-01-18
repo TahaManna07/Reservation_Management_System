@@ -25,8 +25,8 @@ L'architecture repose sur les composants suivants :
 
 ### Microservices techniques :
 1. **Gateway-Service** : Proxy API basé sur Spring Cloud Gateway pour la gestion des requêtes.
-2. **Discovery-Service** : Service de découverte basé sur Eureka Server ou Consul Discovery.
-3. **Config-Service** : Gestion centralisée des configurations via Spring Cloud Config ou Consul Config.
+2. **Discovery-Service** : Service de découverte basé sur Eureka Server .
+3. **Config-Service** : Gestion centralisée des configurations via Spring Cloud Config .
 
 ### Frontend :
 - **Angular-Front-App** : Interface utilisateur pour l'application.
@@ -44,8 +44,8 @@ L'architecture repose sur les composants suivants :
 
 2. **Outils de sécurité et de configuration :**
     - Keycloak
-    - Eureka Server ou Consul Discovery
-    - Spring Cloud Config ou Consul Config
+    - Eureka Server 
+    - Spring Cloud Config   
 
 ### Étapes de déploiement
 1. Clonez le dépôt du projet :
