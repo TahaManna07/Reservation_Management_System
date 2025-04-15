@@ -1,7 +1,7 @@
 # Application de Gestion de Réservations et de Ressources
 
 ## Description
-Cette application est basée sur une architecture microservices et permet de gérer des réservations pour différentes ressources. Chaque réservation concerne une seule ressource. L'application propose deux microservices fonctionnels principaux, un frontend web Angular et plusieurs microservices techniques.
+Cette application est basée sur une architecture microservices et permet de gérer des réservations pour différentes ressources. Chaque réservation concerne une seule ressource. L'application propose trois microservices fonctionnels principaux, un frontend web Angular et plusieurs microservices techniques.
 
 ### Fonctionnalités principales :
 1. Gérer les ressources :
