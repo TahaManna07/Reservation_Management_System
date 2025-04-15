@@ -50,8 +50,7 @@ L'architecture repose sur les composants suivants :
 ### Étapes de déploiement
 1. Clonez le dépôt du projet :
    ```bash
-   git clone <url-du-repo>
-   cd <nom-du-repo>
+   git clone https://github.com/TahaManna07/Reservation_Management_System
    ```
 
 2. Construisez les microservices backend avec Maven :
