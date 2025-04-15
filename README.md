@@ -113,7 +113,7 @@ L'architecture repose sur les composants suivants :
 
 ## Documentation des API
 - Swagger UI est accessible sur :
-    - `http://<gateway-url>/swagger-ui.html`
+    - `http://localhost:8888/swagger-ui.html`
     - **Note** : Assurez-vous que les services sont déployés.
 
 ---
@@ -140,15 +140,8 @@ L'architecture repose sur les composants suivants :
   docker-compose down
   ```
 
----
 
-## Tests
-- **Tests Unitaires :**
-    - Couverture des entités, services et contrôleurs REST.
-- **Tests d'intégration :**
-    - Validation des interactions entre les microservices via Feign Client et Eureka.
 
----
 
 ## Contribution
 1. Forkez le dépôt.
